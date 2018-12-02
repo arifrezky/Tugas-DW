@@ -1,0 +1,47 @@
+header{
+	background-color: #E9967A;
+	height: 100px;
+	padding: 20px 0px 20px 20px;
+}
+nav{
+	display: inline;
+}
+ul{
+	list-style-type: none;
+	background-color: #FFEFD5;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+li{
+	float: left;
+}
+li a{
+	font-family: broadway;
+	display: block;
+	text-align: center;
+	color: purple;
+	text-decoration: none;
+	padding: 14px 16px;
+}
+li a:hover {
+	background-color: #FFDEAD;
+}
+h1{
+	color: #DB7093;
+	font-family: Copperplate Gothic Light;
+}
+p{
+	color: #FFA500;
+	font-family: Comic Sans MS;
+}
+col{
+	width: 200px;
+	height: 400px;
+	display: inline-block;
+	background: blue;
+}
+footer{
+	background-color: #E9967A;
+	height: 100px;
+}
